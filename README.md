@@ -4,6 +4,8 @@ FlashDump is an addon that you run from your Casio **fx-CG50**, connect to a dev
 
 FlashDump only reads. The drive is read-only, and nothing on the calculator changes.
 
+<img src="docs/images/flashdump.png" width="396" alt="FlashDump on the fx-CG50, waiting for the USB cable">
+
 ## Use
 
 1. Download `FLASHDMP.g3a` from [Releases](https://github.com/fxprgm/flashdump-cg/releases).
